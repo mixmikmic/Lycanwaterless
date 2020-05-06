@@ -1,0 +1,211 @@
+#title {
+  background-color: #fff;
+}
+
+
+
+.logo{
+width: 20%;
+}
+
+body {
+  font-family: 'Kanit';
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+.container-fluid {
+  padding: 0 15% 7%;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.navbar-brand {
+  font-family: 'Baloo Tamma 2', cursive;
+  font-size: 3rem;
+}
+
+.nav-link{
+
+}
+
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.btn {
+  margin: 20px 10px;
+}
+
+.nav-item {
+  font-family: 'Montserrat-light';
+  font-size: 1.2rem;
+  width: auto;
+  padding: 0 18px;
+}
+
+.rotated {
+
+  /* Equal to rotateZ(45deg) */
+}
+
+.title-image {
+  right: 30%;
+  width: 70%;
+  position: static;
+}
+
+/* PIC ROW */
+.pic-feature{
+  width: 85%;
+
+}
+
+.pic-feature-1{
+width: 60%;
+align-items: stretch;
+
+
+}
+
+
+
+
+
+/*
+Features */
+#features {
+  padding: 0 10% 13%;
+  text-align: center;
+ position: relative;
+}
+
+@media (max-width: 1028px) {
+#title{
+  text-align: center;
+}
+
+.title-image{
+transform: rotate(0);
+position: static;
+
+}
+
+}
+
+.feature-box1 {
+padding: 0 10%;
+
+}
+
+
+.feature-box {
+  padding: 3%;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+.p-feature {
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #0030b8;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #6efff2;
+}
+
+/* testimonials */
+#testimonials {
+  background-color: #142850;
+  text-align: center;
+  color: white;
+  padding-top: 30px
+}
+
+h2 {
+  font-family: 'Kanit';
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 5%;
+  border-radius: 100%;
+  margin: 2%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+  background-color: #142850;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 7%;
+  margin: 0 20px 20px;
+}
+.press-logo-lycan{
+width: 12%;
+
+}
+
+/* SECTION PRICING */
+
+#pricing{
+padding: 100px;
+text-align: center;
+}
+
+.product-image {
+height: 350px;
+}
+
+
+.pricing-colm{
+
+  padding: 3% 2%;
+}
+
+
+
+#cta {
+
+background-color: #142850;
+padding: 7% 15%;
+text-align: center;
+color: #fff;
+}
+
+.cta-headings{
+font-family: 'Kanit';
+font-size: 3.5rem;
+line-height: 1.5;
+}
+
+#footer{
+  padding: 7% 15%;
+text-align: center;
+
+}
+
+
+.social-icon{
+  margin: 20px 10px;
+}
